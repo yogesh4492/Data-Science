@@ -1,3 +1,33 @@
-Data Science:- 
+Data Science:-
 
-Ther
+Their Is Multiple Stages OF Study to Become Professional Data Scientist:
+1.Any Programming Language(Python):-
+   - Variable and operators
+   - control statements
+   - string manipulation
+   - collections in Python
+   - oops in python
+   - Apis
+   - Basic Sql In Python
+-LIBRARY NumPy & Pandas:
+
+2.  SQL :- 
+    - Basic Sql Operations 
+
+3:- ms excel:
+   - fromula
+   - pivot Tableau
+   - Data Cleaning 
+   - chartrs
+4:- data analysis:
+  - data cleaning
+  - EDA
+  - Dashboards using Tableau or powerbi
+  - python pandas
+  - python Visualization
+
+
+5. Machine Learning:- 
+   - Regression
+   - classification
+   - 

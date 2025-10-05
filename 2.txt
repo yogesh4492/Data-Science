@@ -1,0 +1,34 @@
+week1 &2 python 
+week 3& 4 numpy and pandas
+week 5 &6 statistic and probablity
+- hypothesis testing
+- Data Distribution
+
+
+-week 7 & 8 
+ - machine Learning Basics
+ - Supervised & unsupervised learning algorithms
+ -linear Regression
+ - logistics Regression
+ - k - means clustering
+ - 
+
+ week 9-10
+ - Deep learning Introduction
+ - neural Network & framework
+ - tensorflow
+ - pytorch
+
+week 11& 12
+ - hadoop
+ - spark
+ - Sql Database
+ - No sql Database
+ 
+wkk 13&14 
+- advcance topics
+-natural language processing
+- computer Vision 
+
+week 15&16
+-
