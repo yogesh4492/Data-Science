@@ -18,7 +18,8 @@ Their Is Multiple Stages OF Study to Become Professional Data Scientist:
    - fromula
    - pivot Tableau
    - Data Cleaning 
-   - chartrs
+   - charrs
+   
 4:- data analysis:
   - data cleaning
   - EDA
