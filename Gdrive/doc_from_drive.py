@@ -48,10 +48,10 @@ class Main:
         page_toke=None
         while True:
             resp=service.files().list(
-                q=f"'{self.folder_id}' in parents and trashed=false"
+                q=f"'{self.folder_id}' in parents and trashed=false",
                 spaces='drive',
                 fields='nextPageToken,files(id,name,size)'
-            )
+            ).execute()
 
 
 
