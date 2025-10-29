@@ -64,7 +64,7 @@ total_size = sum(int(f.get('size', 0)) for f in all_files if 'size' in f)
 print(f"📦 Total size: {total_size / (1024 * 1024):.2f} MB")
 
 # 5️⃣ Save results to CSV (optional)
-with open("drive_folder_files.csv", "w", newline="", encoding="utf-8") as csvfile:
+with open("drive_folder.csv", "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(["Name", "ID", "MIME Type", "Size (bytes)"])
     for f in all_files:
